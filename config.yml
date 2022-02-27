@@ -1,0 +1,5 @@
+number_pairs: 5
+#Gap between distances studied. In kilometers
+gap: 0.5
+#Maximum distance of the study. In kilometers
+maximum_distance: 10
