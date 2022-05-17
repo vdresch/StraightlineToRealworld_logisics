@@ -1,5 +1,9 @@
-number_pairs: 5
-#Gap between distances studied. In kilometers
-gap: 0.5
-#Maximum distance of the study. In kilometers
-maximum_distance: 10
+#City where samples will be collected
+city: São Paulo
+#Latitude
+lat: -23.5558
+#Longitude
+lng: -46.6396
+
+#Google API key
+google_api_key: #your_api_key
